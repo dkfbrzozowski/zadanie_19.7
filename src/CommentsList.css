@@ -1,0 +1,11 @@
+nes (6 sloc)  86 Bytes
+.list {
+	padding: 0 20px;
+	list-style: none;
+	text-align: left;
+	font-style: italic;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+}

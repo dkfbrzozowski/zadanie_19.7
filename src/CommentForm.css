@@ -1,0 +1,25 @@
+.input {
+	font-size: 22px;
+	padding: 5px 10px;
+	border: none;
+}
+
+.input-form {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.input-text {
+	width: 80%;
+}
+
+.input-submit {
+	background: #00BFFF;
+	color: #FDF5E6;
+}
+
+.input-submit:focus {
+	outline: none;
+	cursor: pointer;
+}
